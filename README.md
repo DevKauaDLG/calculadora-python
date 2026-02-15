@@ -20,3 +20,10 @@ Projeto simples de calculadora desenvolvido em Python, com operações básicas:
 
 ```bash
 python calculadora.py
+
+```
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Kauã Delgado**  
+[LinkedIn](www.linkedin.com/in/kauã-delgado-35a717309)
