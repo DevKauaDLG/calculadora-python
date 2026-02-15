@@ -26,4 +26,4 @@ python calculadora.py
 ## 👨‍💻 Autor
 
 Desenvolvido por **Kauã Delgado**  
-[LinkedIn](www.linkedin.com/in/kauã-delgado-35a717309)
+[LinkedIn](https://www.linkedin.com/in/kauã-delgado-35a717309)
